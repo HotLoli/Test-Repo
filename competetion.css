@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(90deg,rgba(216, 238, 233) 10%, white 90%);
+    margin-top:20px;
+}
+
+#navBar{
+    color:#53bc94;
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 6vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbarHome{
+    margin-left: 11vw;
+}
+.navbarSub{
+    font-size:30%;
+    color: rgba(0,0,0,.5);
+    margin-right:2vw;
+    font-weight: normal;
+}
+.navbarSub:hover{
+    color:black;
+    cursor: pointer;
+    margin-bottom: 2px;
+    box-shadow: 10;
+}
+#login{
+    margin-left: 10vw;
+}
+#SignUp{
+    background-color: rgba(11, 201, 36, 0.5);
+    padding:10px;
+    border-radius: 15%;
+    color:white;
+}
+#mainSlogan{
+    font-size:70px;
+    font-weight: bolder;
+    margin-top:20vh;
+}
+.textMain{
+    
+    margin-left:10vw;
+    padding:10px;
+    font-family: aptos;
+}
+#DumbText{
+    font-size: 20px;
+}
+#smile{
+    margin-left: 12vw;
+    height: 30px;
+    width:400px;
+}
+.Dumb{
+    display:flex;
+}
+#block{
+    display:block;
+}
